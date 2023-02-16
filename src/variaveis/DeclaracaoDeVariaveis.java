@@ -16,9 +16,11 @@ public class DeclaracaoDeVariaveis {
 		char letra = 'B';
 		System.out.println("Char: " + letra);
 		
+		boolean amarelo = false;
+		System.out.println(amarelo);
+		
 		String palavra = "Cadeira";
 		System.out.println("String: " + palavra);
-		
 		
 	}
 
